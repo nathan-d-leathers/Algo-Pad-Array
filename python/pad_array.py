@@ -17,3 +17,5 @@ print(pad(["w","w","w"],10,"e"))
 print(pad(["fox","box"],2,"p"))
 print(pad(["fox", "box","fox", "box"],8,"sox!"))
 print(pad([1,"two",3,"four"],12,"number"))
+
+# look into rjust, ljust as python padding methods
